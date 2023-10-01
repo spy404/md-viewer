@@ -16,7 +16,7 @@ lines = f.readlines()
 output = ""
 
 for i in lines:
-	output = output + lines + "\n"
+	output = output + i + "\n"
 
 console.print(Markdown(output))
 print(Center.XCenter(Fore.RED + "\n\nDeveloped with love by spy404"))
