@@ -19,4 +19,4 @@ for i in lines:
 	output = output + lines + "\n"
 
 console.print(Markdown(output))
-print(Center.XCenter(Fore.RED + "\n\nDeveloped with love by spy404")
+print(Center.XCenter(Fore.RED + "\n\nDeveloped with love by spy404"))
